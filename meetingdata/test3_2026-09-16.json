@@ -1,0 +1,42 @@
+{
+    "meetingId": "meeting_1789454004328_kel50i",
+    "meetingTitle": "test3",
+    "meetingDate": "2026-09-16",
+    "startTime": "13:32",
+    "organizer": "BBBBB",
+    "location": "",
+    "participants": [
+        {
+            "no": 1,
+            "id": "EEEE210003",
+            "name": "Tran Thi Bich",
+            "position": "General Manager",
+            "attendanceStatus": "participating",
+            "reason": ""
+        },
+        {
+            "no": 2,
+            "id": "EEEE210002",
+            "name": "Nguyen Van An",
+            "position": "Deputy Director",
+            "attendanceStatus": "participating",
+            "reason": ""
+        },
+        {
+            "no": 3,
+            "id": "EEEE210007",
+            "name": "Tran Quoc Bao",
+            "position": "Project Manager",
+            "attendanceStatus": "absent",
+            "reason": "Có việc gia đình"
+        }
+    ],
+    "statistics": {
+        "totalParticipants": 3,
+        "participating": 2,
+        "absentWithReason": 1
+    },
+    "reportFile": null,
+    "jsonFile": "test3_2026-09-16.json",
+    "createdAt": "2026-09-15T06:33:24.328Z"
+}

@@ -1,0 +1,42 @@
+{
+    "meetingId": "meeting_1789447280759_5z4kci",
+    "meetingTitle": "test2",
+    "meetingDate": "2026-09-15",
+    "startTime": "11:40",
+    "organizer": "AAAAAAAA",
+    "location": "A2.202",
+    "participants": [
+        {
+            "no": 1,
+            "id": "EEEE210001",
+            "name": "Nguyen Van B",
+            "position": "Director",
+            "attendanceStatus": "participating",
+            "reason": ""
+        },
+        {
+            "no": 2,
+            "id": "EEEE210010",
+            "name": "Dang Thu Ha",
+            "position": "Manager",
+            "attendanceStatus": "participating",
+            "reason": ""
+        },
+        {
+            "no": 3,
+            "id": "EEEE210002",
+            "name": "Nguyen Van An",
+            "position": "Deputy Director",
+            "attendanceStatus": "absent",
+            "reason": "Có việc riêng"
+        }
+    ],
+    "statistics": {
+        "totalParticipants": 3,
+        "participating": 2,
+        "absentWithReason": 1
+    },
+    "reportFile": "test2_2026-09-15.pdf",
+    "jsonFile": "test2_2026-09-15.json",
+    "createdAt": "2026-09-15T04:41:20.759Z"
+}
